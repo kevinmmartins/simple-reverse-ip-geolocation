@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "geo-from-ip": "^2.1.0",
-    "geoip-lite": "^1.4.5",
+    "geoip-lite": "^1.4.6",
     "iplocation": "^7.2.0",
     "node-geocoder": "^4.2.0"
   }
